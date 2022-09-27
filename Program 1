@@ -1,0 +1,16 @@
+class Calculator
+{
+public static void main(String[] args)
+{
+double a=10;
+double b=15;
+double sum=a+b;
+double diff=a-b;
+double prod=a*b;
+double div=a/b;
+System.out.println("Sum="+sum);
+System.out.println("Difference="+diff);
+System.out.println("Product="+prod);
+System.out.println("Quotient="+div);
+}
+}
